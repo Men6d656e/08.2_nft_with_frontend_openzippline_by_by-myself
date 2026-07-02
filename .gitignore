@@ -1,0 +1,36 @@
+# ── Dependencies ─────────────────────────────────────────────────────
+frontend/node_modules/
+contracts/lib/
+
+# ── Build Outputs ────────────────────────────────────────────────────
+contracts/out/
+contracts/cache/
+contracts/broadcast/
+frontend/.next/
+frontend/dist/
+frontend/out/
+
+# ── Environment ──────────────────────────────────────────────────────
+.env
+.env.local
+.env.*.local
+frontend/.env.local
+frontend/.env.*.local
+
+# ── IDE / Editor ─────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── OS ───────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Logs ─────────────────────────────────────────────────────────────
+*.log
+npm-debug.log*
+
+
+# ── Foundry Artifacts ────────────────────────────────────────────────
+contracts/foundry.lock
