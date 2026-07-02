@@ -3,9 +3,9 @@ frontend/node_modules/
 contracts/lib/
 
 # ── Build Outputs ────────────────────────────────────────────────────
-contracts/out/
-contracts/cache/
-contracts/broadcast/
+# contracts/out/
+# contracts/cache/
+# contracts/broadcast/
 frontend/.next/
 frontend/dist/
 frontend/out/
