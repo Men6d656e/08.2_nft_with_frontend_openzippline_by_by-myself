@@ -59,6 +59,16 @@ A production-grade ERC-721 NFT collection dApp built with **OpenZeppelin Contrac
 | **IPFS** | Local IPFS Desktop / Pinata | Decentralized metadata storage |
 | **Testing** | Forge (Solidity) + Vitest (TypeScript) | Smart contract + frontend tests |
 
+## Screenshots
+
+<img src="img/1.png" alt="NFToken Dashboard" width="700" />
+
+<img src="img/2.png" alt="NFToken Mint & Inventory" width="700" />
+
+<img src="img/3.png" alt="NFToken Wallet Connection" width="700" />
+
+---
+
 ## Smart Contract: `NFToken.sol`
 
 Inherits OpenZeppelin v5 contracts:
